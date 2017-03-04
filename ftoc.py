@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 #sorry for this cancer i am a nood/new to this
 print ('Convert Celsius To Fahrenheit')
 celsius =  (int(input('Type A Number: ')))
