@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-# -*-coding:utf-8-*-
 print ('Convert Celsius To Fahrenheit')
 celsius =  (int(input('Type A Number: ')))
 celsius = celsius * 9 / 5 + 32
